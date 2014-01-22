@@ -2,3 +2,5 @@ Added new text
 added another line
 
 changed again
+
+NEW CHANGES HAVE BEEN MADE
